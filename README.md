@@ -1,9 +1,21 @@
 # Hi there! 👋
 
-I'm **Achraf Bentaher**, a Python Software Engineer passionate about building efficient and scalable solutions. <br>
+I'm **Achraf**, a Python Software Engineer passionate about building efficient and scalable solutions. <br>
 I specialize in developing APIs, and implementing DevOps practices to deliver high-quality applications.
 
 ---
+
+## 🚀 Client Projects
+I work on multiple client projects delivering customized solutions tailored to specific business needs.
+
+- Sticky notes app implemented using Python's FastApi (graphql API) & React:
+<img src="./assets/images/postit_overview.png" alt="Post-it App Interface" width="600"/>
+
+- Job tracking app implemented using Python's FastApi (Rest API) & React:
+<img src="./assets/images/tracking_app_overview.png" alt="Post-it App Interface" width="600"/>
+
+- Weight app implemented using Python's Flask (Rest Api) & React:
+<img src="./assets/images/weight_app_overview.png" alt="Post-it App Interface" width="600"/>
 
 ## 🌟 Highlights
 - Developed Python tools for automating network flow requests and user access with RBAC, enhancing operational efficiency.
