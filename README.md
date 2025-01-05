@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Achraf Bentaher**, a Python Software Engineer passionate about building efficient and scalable solutions. <br>
+I'm **Achraf**, a Python Software Engineer passionate about building efficient and scalable solutions. <br>
 I specialize in developing APIs, and implementing DevOps practices to deliver high-quality applications.
 
 ---
