@@ -1,12 +1,15 @@
 # Hi there! 👋
 
-I'm **Achraf**, a Python Software Engineer passionate about building efficient and scalable solutions. <br>
-I specialize in developing APIs, and implementing DevOps practices to deliver high-quality applications.
+I'm **Achraf**, a Senior Software/Data Engineer passionate about coding and understanding the inner workings of
+storage and compute systems.<br>
+Focused on leveraging this expertise to deliver high-performance,
+cost-effective solutions that exceed client expectations, while fostering a collaborative environment
+centered on continuous learning and knowledge sharing.
 
 ---
 
 ## 🚀 Client Projects
-I work on multiple client projects delivering customized solutions tailored to specific business needs.
+I worked on multiple client projects delivering customized solutions tailored to specific business needs.
 
 - Sticky notes app implemented using Python's FastApi (graphql API) & React:
 <img src="./assets/images/postit_overview.png" alt="Post-it App Interface" width="600"/>
@@ -19,18 +22,40 @@ I work on multiple client projects delivering customized solutions tailored to s
 
 ## 🌟 Highlights
 ### Factset
-- Creating a scalable, fast and cost-efficient job pipeline using Databricks.
-- Built a unified Databricks pipeline to generate competitors for each of 4 Million company, streamlining and replacing a previously fragmented multi-cloud workflow.
-- Cut end-to-end data processing from 28+ hours to under 3 hours (90%+ reduction, up to 10x faster).
-- Automated data cleaning and deduplication, delivering ~97% cost reduction (from >$300/run to <$10/run) while elevating data quality.
-- Expanded number of generated competitors per company from 100 to 1000.
+- Built an automated multi-step Databricks pipeline to generate a list of 1,000 competitors for
+over 10 million companies using Apache Spark, Delta Lake, similarity search, and machine
+learning.
+- Leveraged Delta Lake data governance features (time travel, retention policies) to enable
+safe rollbacks and reduce unnecessary data archiving.
+- Optimized compute usage by combining serverless, clusters, and single-node GPU
+resources to balance performance and cost efficiency.
+Delivered a 2-hour company-wide Town Hall presentation on Databricks tools and best
+practices.
 
+### <i>Impact</i>:
+>Reduced compute time from 24 hours to 1 hour
+>Reduced costs by 90%
 
 ### Société Générale
-- Developed Python tools for automating network flow requests and user access with RBAC, enhancing operational efficiency.
-- Refactored legacy Python applications from 2.7 to 3.11, improving maintainability and performance.
-- Expertise in Docker, Kubernetes, and CI/CD pipelines with GitHub Actions.
+- Developed REST APIs to manage network access within the bank’s on-premise data center.
+- Managed access and permissions for 200+ users using a Role-Based Access Control (RBAC)
+system.
+- Improved PostgreSQL data modeling and optimized SQL queries, achieving up to 3x faster
+execution times.
+### <i>Impact</i>:
+> Increased automation, traceability, and operational efficiency for network management
 
+### Crédit Agricole
+- Designed and developed a data anonymization solution for user emails using transformer
+based models (BERT).
+- Performed data cleaning, preprocessing, and model development for personal data
+anonymization.
+- Evaluated model performance using appropriate metrics, achieving 91% recall and 92%
+precision.
+- Enhanced performance on specific personal data types (emails, phone numbers) using rule
+based methods, reaching 98% accuracy.
+### <i>Impact</i>:
+> Enabled compliant use of anonymized client emails for research purposes under GDPR constraints
 ---
 
 ## 🛠 Skills
