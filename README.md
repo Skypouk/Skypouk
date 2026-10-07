@@ -6,7 +6,7 @@ Focused on leveraging this expertise to deliver high-performance,
 cost-effective solutions that exceed client expectations, while fostering a collaborative environment
 centered on continuous learning and knowledge sharing.
 
----
+<img src="./assets/images/logo_clients.png" alt="Post-it App Interface" width="900"/>
 
 ## 🚀 Client Projects
 I worked on multiple client projects delivering customized solutions tailored to specific business needs.
